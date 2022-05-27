@@ -1,0 +1,3 @@
+[submodule "tokenize"]
+	path = submodulos/tokenizer
+	url = https://github.com/cuban-digital-language/tokenizer-digital-language
